@@ -1,1 +1,1 @@
-# Medical-Health-Insurance-Intelligence-System
+# MNIST Handwritten Digit Recognition
